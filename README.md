@@ -34,7 +34,6 @@ Alongside this, I build **full-stack apps with React and Node/Express**, and I'm
   <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
@@ -59,9 +58,6 @@ Alongside this, I build **full-stack apps with React and Node/Express**, and I'm
 </p>
 
 ---
-
-## 🔭 Currently Building
-**Financial Planning Simulator** — a full-stack app for goal-based financial planning using Monte Carlo simulation (bootstrap sampling from historical asset-class returns), purchase-vs-invest comparison, and reverse contribution solving. Built with FastAPI, PostgreSQL, and React/Vite/Tailwind.
 
 ## 📫 Reach Me
 <p>
